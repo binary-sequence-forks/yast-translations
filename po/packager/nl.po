@@ -2220,7 +2220,7 @@ msgstr "Het systeem wordt afgesloten..."
 #. e.g. "SUSE Linux Enterprise Software Development Kit"
 #: src/modules/ProductLicense.rb:1206
 msgid "%s License Agreement"
-msgstr "%Licentieovereenkomst van %s"
+msgstr "Licentieovereenkomst van %s"
 
 #. TRANSLATORS: %{license_url} is an URL where the displayed license can be found
 #: src/modules/ProductLicense.rb:1622
