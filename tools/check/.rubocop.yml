@@ -1,0 +1,1 @@
+inherit_from: https://raw.githubusercontent.com/yast/yast-devtools/master/ytools/y2tool/rubocop_yast_style.yml
